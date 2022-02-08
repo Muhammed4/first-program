@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C#\first prog\first prog\bin\Debug\first prog.exe.config
+C:\Users\muham\Desktop\C#\first prog\first prog\bin\Debug\first prog.exe
+C:\Users\muham\Desktop\C#\first prog\first prog\bin\Debug\first prog.pdb
+C:\Users\muham\Desktop\C#\first prog\first prog\obj\Debug\first prog.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C#\first prog\first prog\obj\Debug\first prog.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C#\first prog\first prog\obj\Debug\first prog.exe
+C:\Users\muham\Desktop\C#\first prog\first prog\obj\Debug\first prog.pdb
